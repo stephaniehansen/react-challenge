@@ -29,10 +29,3 @@ class Card extends Component {
 }
 
 export default Card;
-
-
-
-
-    // getInfoClass = () => {
-    //     return this.state.showInfo ? styles.show : styles.hide;
-    // }
