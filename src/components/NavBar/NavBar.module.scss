@@ -1,0 +1,22 @@
+nav {
+    height: 40px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0 2vw;
+
+    svg {
+        margin-left: 10px;
+    }
+
+    ul {
+        display: flex;
+        
+        li {
+            list-style: none;
+            padding: 0 10px;
+        }
+    }
+}
+

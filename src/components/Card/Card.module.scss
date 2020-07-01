@@ -1,0 +1,19 @@
+.card {
+    margin: 20px;
+    height: 500px;
+
+    .show {
+        display: block;
+        border: 1px solid black;
+        padding: 0 10px;
+        width: 100%;
+    }
+
+    img {
+        display: block;
+        padding: 10px;
+        border: 1px solid black;
+        width: 100%;
+    }
+}
+
